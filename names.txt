@@ -1,2 +1,3 @@
-boss,NetID,Zhou,Yuhan
+Role,NetID,FamilyName,GivenName
+boss,zhou453,Zhou,Yuhan
 emplyee,jhuang456,huang,jingshan
